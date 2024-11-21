@@ -1,4 +1,4 @@
-Celestix
+# Celestix
 Celestix is a backend project for an OGFN that I was working on but never had the time to complete.
 
 Current Features:
