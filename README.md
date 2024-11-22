@@ -1,5 +1,5 @@
 # Celestix
-Celestix is a backend project for an OGFN that I was working on but never had the time to complete.
+Celestix is a backend for a OGFN that I was working on but never had the time to complete.
 
 Current Features:
 Lobby Support: You can get into lobby and thats about it for now.
